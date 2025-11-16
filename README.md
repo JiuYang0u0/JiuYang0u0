@@ -1,7 +1,8 @@
 # SKILLS
+以下是我目前有接觸過的，後續會調整成更容易辨識的排版並調整技能項目!(有點懶w)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,cs,anaconda,arduino,postgres,postman,py,pytorch,react,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>
 <!--
